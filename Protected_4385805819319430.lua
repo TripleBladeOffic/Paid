@@ -1,3 +1,4 @@
+print("Updated")
 local HWID = game:GetService("RbxAnalyticsService"):GetClientId()
 if HWID == "D7E3FA16-8F32-4714-8D74-D19E95A10CE4" or HWID == "7CA45329-303D-42FB-8A44-B2D1D09987B5" then
     local Luxtl = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Luxware-UI-Library/main/Source.lua"))()
